@@ -1,0 +1,733 @@
+﻿body 
+{
+    height:auto;
+    width:auto;
+    margin:0px;
+    padding:0px;
+    color:black;
+    display:inline-block;
+    
+}
+.vedasolution
+{
+    margin-left:50px;
+    font-size:40px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    color:green;
+    margin-top:30px;
+    
+}
+.term-use
+{
+
+     margin-left:54px;
+    font-size:30px;
+    padding-top:12px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.term-use-p
+{
+      margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.acceptance-of-term
+{
+      margin-left:54px;
+    font-size:30px;
+    margin-top:-40px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.acceptance-of-term-p
+{
+      margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.modification-of-term-of-use
+{
+      margin-left:54px;
+    font-size:25px;
+    margin-top:-40px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.modification-of-term-of-use-p
+{
+     margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.privecy-policy-pss
+{
+
+}
+.privecy-policy-pss-p
+{
+     margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.member-of-accessibility
+{
+      margin-left:54px;
+    font-size:30px;
+    margin-top:-40px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.linense-to-access
+{
+      margin-left:54px;
+    font-size:25px;
+    padding-top:12px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.linense-to-access-p
+{
+      margin:35px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.membership-eligbilty
+{
+     margin-left:54px;
+    font-size:25px;
+    padding-top:12px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:-40px;
+}
+.membership-eligbilty-p
+{
+     margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.additional-policies
+{
+     margin-left:54px;
+    font-size:25px;
+    padding-top:12px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:-40px;
+}
+.additional-policies-p
+{
+     margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.member-cnduct
+{
+     margin-left:54px;
+    font-size:30px;
+    padding-top:12px;
+    margin-top:-40px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.member-cnduct-p
+{
+     margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.prohibition-on-submitted
+{
+     margin-left:54px;
+    font-size:25px;
+    padding-top:12px;
+    font-family:Arial, Helvetica, sans-serif;
+     margin-top:-40px;
+}
+.prohibition-on-submitted-p
+{
+     margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.prohibition-on-sending-message
+{
+       margin-left:54px;
+    font-size:25px;
+    padding-top:12px;
+    font-family:Arial, Helvetica, sans-serif;
+     margin-top:-40px;
+}
+.prohibition-on-sending-message-p
+{
+     margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.no-discrimination
+{
+       margin-left:54px;
+    font-size:25px;
+    padding-top:12px;
+    font-family:Arial, Helvetica, sans-serif;
+     margin-top:-40px;
+}
+.no-discrimination-p
+{
+     margin:35px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.rule-for-service-professionals
+{
+     margin-left:54px;
+    font-size:30px;
+    padding-top:12px;
+    margin-top:-60px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.profiles-and-offers
+{
+       margin-left:54px;
+    font-size:25px;
+    padding-top:12px;
+    font-family:Arial, Helvetica, sans-serif;
+     margin-top:0px;
+}
+.profiles-and-offers-p
+{
+     margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.profiles-and-offers-canot-use
+{
+       margin-left:54px;
+    font-size:25px;
+    padding-top:12px;
+    font-family:Arial, Helvetica, sans-serif;
+     margin-top:-40px;
+}
+profiles-and-offers-canot-use-p
+{
+     margin:54px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.rule-for-service-use
+{
+     margin-left:54px;
+    font-size:30px;
+    padding-top:12px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:-40px;
+
+}
+.service-for-shall-not
+{
+      margin-left:54px;
+    font-size:25px;
+    margin-top:0px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.service-for-shall-not-p
+{
+     margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sanction-for-violating
+{
+      margin-left:54px;
+    font-size:25px;
+    margin-top:-40px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sanction-for-violating-p
+{
+     margin:27px;
+    font-size:17px;
+    padding:30px;
+    margin-top:0px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.personal-info
+{
+    margin-left:50px;
+    font-size:30px;
+    padding-top:12px;
+    margin-top:100px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.personal-info p
+{
+   
+    font-size:25px;
+    padding-top:20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.personal-info-material p
+{
+    margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.social-info
+{
+    font-size:25px;
+    padding-top:-35px;
+    margin-left:54px;
+    margin-top:-20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.social-info-material p
+{
+     margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.automatic-info
+{
+     margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.automatic-info-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.info-we-collect
+{
+     margin-left:54px;
+    font-size:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.personal-info-is-used
+{
+     font-size:25px;
+    padding-top:-35px;
+    margin-left:54px;
+    margin-top:-20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.personal-info-is-used-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.electronic-newsletters
+{
+    margin-left:50px;
+    font-size:30px;
+    padding-top:-10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.electronic-newsletters-p
+{
+     margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.electronic-newsletters-pa
+{
+   margin-left:54px;
+    font-size:25px;
+    padding-top:-20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.electronic-newsletters-p1
+{
+    margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.send-to-the-friend
+{
+    font-size:25px;
+    padding-top:-35px;
+    margin-left:54px;
+    margin-top:-20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.send-to-the-friend-p
+{
+     margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.polling-head
+{
+     margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.polling-head-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.surveys-head
+{
+      margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.surveys-head-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.security-head
+{
+       margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.security-head-p
+{
+       margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.disclosure-head
+{
+    margin-left:50px;
+    font-size:30px;
+    padding-top:-10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.disclosure-head-p
+{
+     margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.info-disclosed
+{
+   margin-left:54px;
+    font-size:25px;
+    padding-top:-20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.info-disclosed-p
+{
+    margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.info-disclosed-third
+{
+    font-size:25px;
+    padding-top:-35px;
+    margin-left:54px;
+    margin-top:-20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.info-disclosed-third-p
+{
+     margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.disclosed-noninfo-head
+{
+     margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.disclosed-noninfo-head-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.disclosed-to-other-head
+{
+      margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.disclosed-to-other-head-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.info-disclosed-to-law-head
+{
+       margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.info-disclosed-to-law-head-p
+{
+       margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.in-the-event
+{
+      margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.in-the-event-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.info-disclosed-at-your-head
+{
+      margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.info-disclosed-at-your-head-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.link-to-external-head
+{
+    margin-left:50px;
+    font-size:30px;
+    padding-top:-10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.link-to-external-head-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.updating-deleting-head
+{
+    margin-left:50px;
+    font-size:30px;
+    padding-top:-10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.updating-deleting-head-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.what-to-choice-head
+{
+    margin-left:50px;
+    font-size:30px;
+    padding-top:-10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.what-to-choice-head-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.third-party-ad-network-head
+{
+    margin-left:50px;
+    font-size:30px;
+    padding-top:-10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.third-party-ad-network-head-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.your-full-name-head
+{
+    margin-left:50px;
+    font-size:30px;
+    padding-top:-10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.your-full-name-h
+{
+      margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.your-full-name-h-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.using-info-vedaare
+{
+      margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.using-info-vedaare-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.accoun-protection-head
+{
+      margin-left:54px;
+    font-size:25px;
+    padding-top:-65px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.accoun-protection-head-p
+{
+      margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.user-genrated-contect
+{
+    margin-left:50px;
+    font-size:30px;
+    padding-top:-10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.user-genrated-contect-p
+{
+    margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.privacy-policy-head
+{
+    margin-left:50px;
+    font-size:30px;
+    padding-top:12px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.privacy-policy-head-p
+{
+    margin:27px;
+    font-size:20px;
+    padding:30px;
+    padding-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.container h2
+{
+    color:white;
+}

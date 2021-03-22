@@ -1,0 +1,17 @@
+List of Services in order of priority
+
+1.	Electrician
+2.	Plumber
+3.	AC Service & Repairs
+4.	Car Service & Repair
+5.	Carpenter
+6.	Washing Machine Repair
+7.	Refrigerator Repair 
+8.	Laptop Repair
+9.	Mobile Repair
+10.	RO & Water Purifier Repair
+11.	Microwave Repair
+12.	TV /DTH Installation
+13.	Chimney & Hob Repair
+14.	Water Tank Cleaning
+15.	Interior Work / Civil Repair

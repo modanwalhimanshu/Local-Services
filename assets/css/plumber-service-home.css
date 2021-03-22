@@ -1,0 +1,30 @@
+﻿element {
+}
+._2DnbdOjHmP79C5lah_PnNn h2 {
+    margin-bottom: 22px;
+    text-align: left;
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #424242;
+}
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+body {
+    text-rendering: optimizeLegibility;
+    font-family: ProximaNova-Regular,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+}
+html {
+    color: #222;
+    font-weight: 100;
+    font-size: 1em;
+    font-family: Lato,Open Sans,Segoe UI,Helvetica,sans-serif;
+    line-height: 1.375;
+}
+

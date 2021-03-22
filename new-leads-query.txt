@@ -1,0 +1,8 @@
+﻿SELECT         bookinginfo.Booking_Id, bookinginfo.Booking_Date, bookinginfo.Booking_Time, 
+                         bookinginfo.Address,bookinginfo.pincode as Pincode, bookinginfo.Customer_EmailId, customer_signup.name, customer_signup.mobile_no
+
+FROM            PartnerInfo INNER JOIN
+                         add_service ON PartnerInfo.service = add_service.service_name INNER JOIN
+                         bookinginfo ON PartnerInfo.pincode = bookinginfo.pincode INNER JOIN
+                         customer_signup ON bookinginfo.Customer_EmailId = customer_signup.email_id where partnerinfo.mobile=9898989898 and available='Available' order by bookinginfo.Booking_Id desc
+

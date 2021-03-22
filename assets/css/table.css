@@ -1,0 +1,11 @@
+﻿.linktabel
+{
+    border-collapse: collapse;
+    width: 62%;
+    background-color:white;
+  border: 2px solid #CD5C5C;
+    }
+.linktabel tr:hover
+{background-color:#CD5C5C;
+      
+         }

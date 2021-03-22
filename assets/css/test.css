@@ -1,0 +1,1057 @@
+﻿@import url('test.css');
+body{
+    
+}
+
+.employee_register{
+    width:500px;
+    height:1200px;
+    background:white;
+    border:2px solid #CD5C5C;
+    border-radius:3px 4px;
+}
+.employee_register_form{
+    width:400px;
+    height:1120px;
+    background:#fff;
+    border-radius:10px;
+    margin-top:6px;
+    border-bottom:3px solid #CD5C5C;
+}
+.employee_register_form h1{
+    font-family:Calibri;
+    font-size:30px;
+    color:black;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    text-transform:uppercase;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+}
+.employee_register_form h4{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    margin-bottom:-20px;
+}
+.employee_register_form h5{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    float:left;
+}
+.name_employee{
+    float:left;
+    margin:20px 0px 0px 18px;
+    width:350px;
+    height:40px;
+    padding-left:10px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+.designation_employee
+{
+    float:left;
+    margin:20px 0px 0px 18px;
+    width:350px;
+    height:40px;
+    padding-left:10px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    
+}
+.mobile_employee{
+    float:left;
+    margin:20px 0px 0px 18px;
+    width:350px;
+    height:40px;
+    padding-left:10px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+.email_employee{
+    float:left;
+    margin:20px 0px 0px 18px;
+    width:350px;
+    height:40px;
+    padding-left:10px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+.password_employee{
+    float:left;
+    margin:20px 0px 0px 18px;
+    width:350px;
+    height:40px;
+    padding-left:10px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+.confirm_password_employee{
+    float:left;
+    margin:20px 0px 0px 18px;
+    width:350px;
+    height:40px;
+    padding-left:10px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+.employee_register_form input:focus{
+    border:1px solid #CD5C5C;
+    outline:none;
+}
+.chkterms_employee{
+    float:right;
+    background:#e9e9e9;
+    color:black;
+    font-family:Calibri;
+    font-size:17px;
+    font-weight:bold;
+    border:1px solid #b8cfff;
+    border-radius:6px;
+    margin:15px 120px 0px 0px;
+    padding:6px 17px 4px 18px;
+}
+.signup_employee{
+    float:right;
+    background:#e9e9e9;
+    color:black;
+    font-family:Calibri;
+    font-size:17px;
+    font-weight:bold;
+    border:1px solid #b8cfff;
+    border-radius:6px;
+    margin:15px 22px 0px 0px;
+    padding:6px 17px 4px 18px;
+}
+
+.employee_login{
+    width:500px;
+    height:540px;
+    background:white;
+    border:2px solid #CD5C5C;
+    border-radius:3px 4px;
+}
+.employee_login_form{
+    width:400px;
+    height:490px;
+    background:#fff;
+    border-radius:10px;
+    margin-top:6px;
+    border-bottom:3px solid #CD5C5C;
+}
+
+.employee_login_form h1{
+    font-family:Calibri;
+    font-size:30px;
+    color:black;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    text-transform:uppercase;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+}
+.employee_login_form h4{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    margin-bottom:-20px;
+}
+.employee_login_form h5{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    line-height:2;
+  
+    float:left;
+    
+}
+.btn_employee_login{
+    float:right;
+    background:#e9e9e9;
+    color:black;
+    font-family:Calibri;
+    font-size:17px;
+    font-weight:bold;
+    border:1px solid #b8cfff;
+    border-radius:6px;
+    margin:15px 22px 0px 0px;
+    padding:6px 17px 4px 18px;
+}
+.signin_employee{
+    float:left;
+   margin:5px 22px 0px 0px;
+    padding:0px 25px 4px 18px;
+}
+
+
+.signin_employee1{
+    float:left;
+   margin:5px 22px 0px 0px;
+    padding:0px 20px 8px 18px;
+}
+
+.employee_login_form input:focus{
+    border:1px solid #CD5C5C;
+    outline:none;
+}
+
+ @media screen and (max-width:524px)
+ {
+     .employee_login{
+         width:95%;
+         height:580px;
+     }
+     .employee_login_form{
+         width:90%;
+         height:530px;
+
+     }
+     .email_employee{
+         width:90%;
+     }
+     .password_employee{
+         width:90%;
+     }
+     .chkterms_employee
+     {
+         float:right;
+    background:#e9e9e9;
+    color:black;
+    font-family:Calibri;
+    font-size:17px;
+    font-weight:bold;
+    border:1px solid #b8cfff;
+    border-radius:6px;
+    margin:15px 0px 0px 0px;
+    padding:6px 17px 4px 18px;
+     }
+ }
+
+.employee_add_service1
+{
+    width:500px;
+    height:1350px;
+    background:white;
+    border:2px solid #CD5C5C;
+    border-radius:3px 4px;
+}
+
+.employee_add_service1_form
+{
+     width:400px;
+    height:1300px;
+    background:#fff;
+    border-radius:10px;
+    margin-top:6px;
+    border-bottom:3px solid #CD5C5C;
+}
+
+.employee_add_service1_form h1{
+    font-family:Calibri;
+    font-size:30px;
+    color:black;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    text-transform:uppercase;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+}
+.employee_add_service1_form h4{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    margin-bottom:-20px;
+}
+.employee_add_service1_form h5{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    float:left;
+}
+
+.service_name
+{
+     float:left;
+    margin:20px 0px 0px 18px;
+    width:350px;
+    height:40px;
+    padding-left:10px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+
+.btnadd-promise
+{
+    background:#e9e9e9;
+    color:black;
+    font-family:Calibri;
+    font-size:17px;
+    font-weight:bold;
+    border:1px solid #b8cfff;
+    border-radius:6px;
+    margin:15px 22px 0px 0px;
+    padding:6px 17px 4px 18px;
+}
+
+.lst_promise
+{
+    
+     margin:20px 67px 0px 22px;
+    width:200px;
+    height:400px;
+    padding-left:10px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+.normal_pricing1
+{
+     float:left;
+    margin:20px 0px 0px 18px;
+    width:160px;
+    height:40px;
+    padding-left:10px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+
+.normal_pricing2
+{
+     float:left;
+    margin:0px 0px 0px 35px;
+    width:160px;
+    height:40px;
+    padding-left:10px;
+    
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+.btn_submit{
+    background:#e9e9e9;
+    color:black;
+    font-family:Calibri;
+    font-size:17px;
+    font-weight:bold;
+    border:1px solid #b8cfff;
+    border-radius:6px;
+    margin:5px 10px 0px 0px;
+    padding:6px 17px 4px 18px;
+    width:120px;
+    height:50px;
+
+}
+.employee_add_service1 input:focus{
+    border:1px solid #CD5C5C;
+    outline:none;
+}
+.customer_register
+{
+    width:500px;
+    height:860px;
+    background:white;
+    border:2px solid #CD5C5C;
+    border-radius:3px 4px;
+}
+
+.customer_register_form{
+    width:400px;
+    height:810px;
+    background:#fff;
+    border-radius:10px;
+    margin-top:6px;
+    border-bottom:3px solid #CD5C5C;
+}
+.customer_register_form h1{
+    font-family:Calibri;
+    font-size:30px;
+    color:black;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    text-transform:uppercase;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+}
+.customer_register_form h4{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    margin-bottom:-20px;
+}
+.cutomer_register_form h5{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    float:left;
+}
+.cutomer_register_form input:focus{
+    border:1px solid #CD5C5C;
+    outline:none;
+}
+.c_home
+{
+  margin-top: 40px;
+padding-bottom: 30px;
+width: 1300px;
+
+margin-left:20px;
+background-color: #fff;
+
+    float:left;
+    height:850px;
+   
+    border-radius:3px 4px;
+}
+
+
+  /* @media screen and (max-width:768px)
+{
+.customer-container-left {
+    position: relative;
+                      
+                         width:90%;
+}
+  }
+@media screen and (max-width:768px)
+{
+.customer-container-right {position: relative;
+                      
+                         padding:0px;
+                         float:left;
+                         display: inline-block;
+                         width:90%;
+}
+  }*/
+.customer-container-left
+{
+    float:left;
+     width:600px;
+    height:750px;
+    background:#fff;
+    border-radius:10px;
+    overflow-y: scroll;
+    margin-top:30px;
+    margin-left:40px;
+    border:2px solid #CD5C5C;
+    font-weight: 600;
+    border-radius:3px 4px;
+
+}
+
+.lblsearchtype
+{
+    
+    padding-top:10px;
+    font-family:'Segoe UI';
+    font-size:35px;
+    font-weight:bold;   
+}
+.lblpromise
+    {
+    padding-left:15px;
+    padding-top:10px;
+    font-family:'Segoe UI';
+    font-size:25px;
+    font-weight:bold;   
+
+    }
+.lblpromise_val
+{
+    padding-left:30px;
+    padding-top:10px;
+    font-family:'Segoe UI';
+    font-size:17px;
+    color:black;
+}
+.customer-container-right
+{
+   float:left;
+     width:600px;
+    height:750px;
+    background:#fff;
+    border-radius:10px;
+    overflow-y: scroll;
+    margin-left:40px;
+    margin-top:30px;
+    border:2px solid #CD5C5C;
+    font-weight: 600;
+    border-radius:3px 4px;
+}
+
+.customer-container-right_form{
+    width:400px;
+    height:900px;
+    background:#fff;
+    border-radius:10px;
+    margin-top:6px;
+    
+}
+.customer-container-left h4{
+    font-weight: 600;
+font-size:30px;
+margin: 10px;
+padding:10px;
+
+}
+
+.c_h2{
+    font-family:Calibri;
+    font-size:30px;
+    color:black;
+    background:white;
+    text-align:left;
+    padding-left:60px;
+    padding-top:40px;
+    text-transform:uppercase;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+}
+.customer-container-right-form h3{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    background:white;
+    text-align:left;
+    padding-left:80px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    margin-bottom:-20px;
+}
+    .customer-container-right-form h5 {
+        font-family: Verdana;
+        font-size: 15px;
+        color: black;
+        background: white;
+        text-align: left;
+        padding-left: 15px;
+        line-height: 2;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        float: left;
+    }
+ .customer-house{
+    float:left;
+    margin:20px 0px 0px 78px;
+    width:350px;
+    height:40px;
+    padding-left:40px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+ .customer-date{
+    
+    
+    background-color:#CD5C5C;
+    color:white;
+    width:250px;
+    height:250px;
+    padding-left:40px;
+    font-family:'Segoe UI';
+    font-size:20px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+ .customer-container-right_form input:focus{
+    border:1px solid #CD5C5C;
+    outline:none;
+}
+ .btn_next
+ {
+   float:right;
+    background:#e9e9e9;
+    color:black;
+    font-family:Calibri;
+    font-size:17px;
+    font-weight:bold;
+    border:1px solid #b8cfff;
+    border-radius:6px;
+    margin:15px 70px 0px 0px;
+    padding:6px 17px 4px 18px;
+ }
+ @media screen and (max-width:1321px)
+{
+    .c_home
+    {
+        width:100%;
+    }
+    .customer-container-left{
+        width:45%;
+    }
+    .customer-container-right{
+        width:45%;
+    }
+    .customer-container-right_form{
+        width:80%;
+    }
+}
+ @media screen and (max-width:985px)
+{
+    .c_home
+    {
+        width:100%;
+        height:auto;
+    }
+    .customer-container-left{
+        width:90%;
+    }
+    .customer-container-right{
+        width:90%;
+    }
+    .customer-container-right_form{
+        width:80%;
+    }
+}
+ @media screen and (max-width:484px)
+{
+    .c_home
+    {
+        width:100%;
+        height:auto;
+    }
+    .customer-container-left{
+        width:90%;
+    }
+    .customer-container-right{
+        width:90%;
+    }
+    .customer-container-right_form{
+        width:80%;
+        margin-right:5px;
+        padding:0px;
+        overflow-x:hidden;
+    }
+    .customer-container-right_form h2{
+        text-align:left;
+        font-size:10px;
+
+    }
+    .customer-house{
+    width:80%;
+    }
+    .customer-date{
+        width:80%;
+    }
+}
+@media screen and (max-width:406px) {
+    .c_home {
+        width: 100%;
+        height: auto;
+    }
+
+    .customer-container-left {
+        width: 90%;
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+    .customer-container-right {
+        margin-left: 0px;
+        margin-top: 10px;
+        width: 90%;
+    }
+
+    .customer-container-right_form {
+        width: 100%;
+        padding: 0px;
+        overflow-x: hidden;
+    }
+
+    .c_h2 {
+        font-family: Calibri;
+        font-size: 20px;
+        color: black;
+        background: white;
+        text-align: left;
+        padding-left: 15px;
+        padding-top: 15px;
+        text-transform: uppercase;
+        line-height: 2;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+    }
+
+    .customer-house {
+        float: left;
+        margin: 20px 0px 0px 40px;
+        width: 70%;
+        height: 40px;
+        padding-left: 10px;
+        font-family: 'Segoe UI';
+        font-size: 13px;
+        font-weight: bold;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+    }
+}
+
+ .payment{
+     margin-top: 40px;
+padding-bottom: 30px;
+width: 1100px;
+font-weight: 600;
+margin-left:100px;
+background-color: #fff;
+
+    float:left;
+    height:850px;
+   
+    border-radius:3px 4px;
+ }
+ .payment h6
+ {
+     font-family:Verdana;
+     color:black;
+     font-size:11px;
+     line-height:2;
+     text-align:center;
+     padding-top:680px;
+ }
+
+ .customer-payment{
+     float:left;
+     width:600px;
+    height:450px;
+    background:#fff;
+    border-radius:10px;
+    margin-top:60px;
+    margin-left:20px;
+    border:2px solid #CD5C5C;
+ }
+ 
+
+ .rate-list
+ {
+     float:left;
+     width:400px;
+    height:600px;
+    background:#fff;
+    border-radius:10px;
+    margin-top:-450px;
+    margin-left:650px;
+    
+    border:2px solid #CD5C5C
+ }
+  
+
+ .rbtnonline
+{
+     float:left;
+    padding-left:80px;
+    padding-top:80px;
+    font-family:'Segoe UI';
+    font-size:25px;
+    font-weight:bold;
+    
+}
+ .rbtnonline:hover
+ {
+     color:#CD5C5C;
+ }
+ .customer-payment h4
+ {
+     font-family:Verdana;
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    background:white;
+    text-align:left;
+    padding-left:120px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    margin-bottom:-20px;
+ }
+ .lblrate
+ {
+     padding-left:23px;
+    padding-top:15px;
+    font-family:'Segoe UI';
+    font-size:25px;
+    font-weight:bold;
+ }
+ .lblrate_val
+ {
+      padding-left:30px;
+    padding-top:10px;
+    font-family:'Segoe UI';
+    font-size:17px;
+    color:black;
+ }
+ .lblmsg_payment
+ {
+     padding-left:100px;
+     text-align:left;
+     font-family:Verdana;
+     font-size:15px;
+     line-height:2;
+     
+ }
+ .btn_payment
+ {
+     float:right;
+    background-color:#15aa0f;
+    color:#fff;
+    font-family:Calibri;
+    font-size:23px;
+    font-weight:bold;
+    border:1px solid #b8cfff;
+    border-radius:6px;
+    margin:15px 60px 0px 0px;
+    padding:6px 17px 4px 18px;
+ }
+
+ .c_change_password
+ {
+     width:500px;
+    height:450px;
+    background:white;
+    border:2px solid #CD5C5C;
+    border-radius:3px 4px;
+ }
+ .c_change_password_form
+ {
+     width:400px;
+    height:400px;
+    background:#fff;
+    border-radius:10px;
+    margin-top:6px;
+    border-bottom:3px solid #CD5C5C;
+ }
+ .c_change_password_form h1{
+    font-family:Calibri;
+    font-size:30px;
+    color:black;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    text-transform:uppercase;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+}
+.c_change_password_form h4{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    margin-bottom:-20px;
+}
+
+.old_pwd
+{
+    float:left;
+    margin:20px 0px 0px 18px;
+    width:350px;
+    height:40px;
+    padding-left:10px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+
+.btn_c_change_pwd
+{
+    float:right;
+    background:#e9e9e9;
+    color:black;
+    font-family:Calibri;
+    font-size:17px;
+    font-weight:bold;
+    border:1px solid #b8cfff;
+    border-radius:6px;
+    margin:15px 22px 0px 0px;
+    padding:6px 17px 4px 18px;
+}
+
+.confirm_msg
+{
+     width:300px;
+    height:250px;
+    background:white;
+    
+    border-radius:3px 4px;
+}
+.lblconfirm
+{
+
+    padding-top:30px;
+    font:100;
+    font-size:25px;
+    font-family:Verdana;
+}
+
+.customer_edit
+{
+    width:500px;
+    height:700px;
+    background:white;
+    border:2px solid #CD5C5C;
+    border-radius:3px 4px;
+}
+
+.customer_edit_form{
+    width:400px;
+    height:650px;
+    background:#fff;
+    border-radius:10px;
+    margin-top:6px;
+    
+}
+.customer_edit_form h1{
+    font-family:Calibri;
+    font-size:30px;
+    color:black;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    text-transform:uppercase;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+}
+.customer_edit_form h4{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    margin-bottom:-20px;
+}
+
+.cutomer_register_form input:focus{
+    border:1px solid #CD5C5C;
+    outline:none;
+}
+.panel2 table th h4
+{
+    font-family:Verdana;
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    background:white;
+    text-align:left;
+    padding-left:15px;
+    line-height:2;
+    border-left:2px solid white;
+    border-right:2px solid white;
+    margin-bottom:-20px;
+}
+.txtfdate
+{
+    float:left;
+    margin:20px 0px 0px 18px;
+    width:200px;
+    height:30px;
+    padding-left:10px;
+    font-family:'Segoe UI';
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+
